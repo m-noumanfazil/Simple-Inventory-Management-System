@@ -1,0 +1,15 @@
+# Backend - FastAPI
+fastapi
+uvicorn
+sqlalchemy
+groq
+python-dotenv
+pydantic
+
+# Frontend - Streamlit
+streamlit
+requests
+pandas
+streamlit-aggrid
+st-bridge
+plotly
